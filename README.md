@@ -4,7 +4,7 @@ This project is a reimplementation of [Sliver 1.6](https://sourceforge.net/proje
 
 ## Tasks
 
-- [ ] Adapter
+- [x] Adapter
 - [ ] Bridge
 - [ ] Builder
 - [ ] Chain of Responsibility
