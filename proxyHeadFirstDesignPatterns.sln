@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bridge", "Bridge", "{44730E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remotes", "Bridge\Remotes\Remotes.vcxproj", "{CC5CBD0A-40C6-42E5-ADE9-685FF8EAE914}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{35178468-BA52-4A0F-AE64-F4815A0C8F44}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Planner", "Builder\Planner\Planner.vcxproj", "{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -35,6 +39,14 @@ Global
 		{CC5CBD0A-40C6-42E5-ADE9-685FF8EAE914}.Release|x64.Build.0 = Release|x64
 		{CC5CBD0A-40C6-42E5-ADE9-685FF8EAE914}.Release|x86.ActiveCfg = Release|Win32
 		{CC5CBD0A-40C6-42E5-ADE9-685FF8EAE914}.Release|x86.Build.0 = Release|Win32
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Debug|x64.ActiveCfg = Debug|x64
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Debug|x64.Build.0 = Debug|x64
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Debug|x86.Build.0 = Debug|Win32
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Release|x64.ActiveCfg = Release|x64
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Release|x64.Build.0 = Release|x64
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Release|x86.ActiveCfg = Release|Win32
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,5 +54,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F3F100E1-096F-48DF-A0C6-DCE1C8FABD4E} = {A6081A58-BB22-40F5-AB8F-227E0DED8EDE}
 		{CC5CBD0A-40C6-42E5-ADE9-685FF8EAE914} = {44730EB6-AFC7-4087-A3FC-B22FE6D0C7B4}
+		{67EA60DE-C0B3-4CFC-BB41-8A69E15AEAF1} = {35178468-BA52-4A0F-AE64-F4815A0C8F44}
 	EndGlobalSection
 EndGlobal
