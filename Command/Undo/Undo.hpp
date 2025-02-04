@@ -1,0 +1,15 @@
+#pragma once
+
+#include "CeilingFan.hpp"
+#include "CeilingFanHighCommand.hpp"
+#include "CeilingFanLowCommand.hpp"
+#include "CeilingFanMediumCommand.hpp"
+#include "CeilingFanOffCommand.hpp"
+#include "Command.hpp"
+#include "DimmerLightOffCommand.hpp"
+#include "DimmerLightOnCommand.hpp"
+#include "Light.hpp"
+#include "LightOffCommand.hpp"
+#include "LightOnCommand.hpp"
+#include "NoCommand.hpp"
+#include "RemoteControlWithUndo.hpp"
