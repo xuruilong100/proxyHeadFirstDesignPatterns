@@ -12,9 +12,9 @@ This project is a reimplementation of [Sliver 1.6](https://sourceforge.net/proje
 - [x] Composite
 - [ ] Compound
 - [x] Decorator
-- [ ] Facade
-- [ ] Factory
-- [ ] Flyweight
+- [x] Facade
+- [x] Factory
+- [x] Flyweight
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
